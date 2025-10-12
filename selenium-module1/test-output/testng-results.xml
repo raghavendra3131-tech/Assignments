@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-11T18:49:51 CST" name="Default suite" finished-at="2025-10-11T18:50:06 CST" duration-ms="14521">
+    <groups>
+    </groups>
+    <test started-at="2025-10-11T18:49:51 CST" name="Default test" finished-at="2025-10-11T18:50:06 CST" duration-ms="14521">
+      <class name="com.selenium.module1.Assignment1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:49:51 CST" name="setUp" finished-at="2025-10-11T18:49:53 CST" duration-ms="1564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectDropdown()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:49:53 CST" name="selectDropdown" finished-at="2025-10-11T18:49:57 CST" duration-ms="4112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropdown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:49:57 CST" name="tearDown" finished-at="2025-10-11T18:49:57 CST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:49:57 CST" name="setUp" finished-at="2025-10-11T18:49:58 CST" duration-ms="1163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectOptionsAndCheckboxes()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:49:58 CST" name="selectOptionsAndCheckboxes" finished-at="2025-10-11T18:50:01 CST" duration-ms="3127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectOptionsAndCheckboxes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:50:01 CST" name="tearDown" finished-at="2025-10-11T18:50:01 CST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:50:01 CST" name="setUp" finished-at="2025-10-11T18:50:02 CST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPageTitle()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:50:02 CST" name="verifyPageTitle" finished-at="2025-10-11T18:50:05 CST" duration-ms="3158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.module1.Assignment1@16293aa2]" started-at="2025-10-11T18:50:05 CST" name="tearDown" finished-at="2025-10-11T18:50:06 CST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.module1.Assignment1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
